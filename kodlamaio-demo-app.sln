@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodlamaioApp", "KodlamaioApp\KodlamaioApp.csproj", "{7741D71A-8190-41BF-A4EB-7BB0432769CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7741D71A-8190-41BF-A4EB-7BB0432769CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7741D71A-8190-41BF-A4EB-7BB0432769CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7741D71A-8190-41BF-A4EB-7BB0432769CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7741D71A-8190-41BF-A4EB-7BB0432769CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F04E5E1F-86FD-433D-A05F-3FDDA1937698}
+	EndGlobalSection
+EndGlobal
